@@ -1,25 +1,29 @@
-# CP1404 Assignment 1 - Song-list 1.0
+# CP1404 Practicals Repository
 
-Assignment 1 for CP1404/CP5632, IT@JCU
-**By: Fan Yiqi**  
+This repository contains my completed practical work for **CP1404 Programming II** at James Cook University.  
+It demonstrates implementations of programming concepts including object-oriented design, clean code principles, and Python best practices.
 
-## Project Overview  
-This repository contains the starter files for Assignment 1, including:  
-- `songs.csv` – The data file used in the program.  
-- `songs_backup.csv` – A backup file, not to be used in the program.  
+## About the Developer
+- **Name**: Fan Yiqi  
+- **Student ID**: 14703762  
+- **Degree Program**: Bachelor of Information Technology  
+- **GitHub**: [Fanyiqi25588](https://github.com/Fanyiqi25588)  
 
-## Project Reflection  
+## Clean Code Principles Learned
+Key lessons about writing maintainable code:
+- **Intentional Naming**  
+  Use self-documenting identifiers like `student_enrollment_list` instead of generic names like `data`
+- **Single Responsibility**  
+  Design functions to perform one focused task (e.g., separate data loading from processing)
+- **Consistent Style**  
+  Adhere to PEP 8 guidelines using PyCharm's reformat tool (`Ctrl+Alt+L`)
+- **Effective Commenting**  
+  Write _why_ comments for complex logic, not _what_ descriptions
 
-### 1. How long did the entire project take?  
-It took approximately **six hours** to complete.  
+## Essential Resources
+- [CP1404 Programming Patterns](https://cp1404.github.io/patterns/) - Python-specific implementation patterns  
+- [CP1404 Practicals Instructions](https://github.com/CP1404/Practicals) - Official task specifications  
 
-### 2. What will you do differently for Assignment 2?  
-- Manage time more effectively by breaking tasks into smaller milestones.
-- Improve code structure by following better function design and organization.
-- Make frequent commits to track progress and changes systematically.
-- Review requirements thoroughly before coding to minimize errors and rework. 
+---
 
- 
-
-
- 
+### Repository Structure
